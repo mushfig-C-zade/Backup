@@ -1,0 +1,14 @@
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.AssemblyInfoInputs.cache
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.AssemblyInfo.cs
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.csproj.CoreCompileInputs.cache
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\bin\Debug\net6.0\Backup.exe
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\bin\Debug\net6.0\Backup.deps.json
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\bin\Debug\net6.0\Backup.runtimeconfig.json
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\bin\Debug\net6.0\Backup.dll
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\bin\Debug\net6.0\Backup.pdb
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.dll
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\refint\Backup.dll
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.pdb
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\Backup.genruntimeconfig.cache
+C:\Users\cahat\Desktop\New folder (2)\Backup\Backup\obj\Debug\net6.0\ref\Backup.dll
